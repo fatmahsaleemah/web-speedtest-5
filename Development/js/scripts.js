@@ -14,4 +14,4 @@ console.log(instructor.courses[0]);
 
 
 console.log(instructor.githubAccount.username);
-console.log(instructor.sayHello)
+console.log(instructor.sayHello());
